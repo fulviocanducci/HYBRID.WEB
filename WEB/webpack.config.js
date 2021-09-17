@@ -22,8 +22,8 @@ var config = {
           minSize: 0
         }
       }
-    },
-    occurrenceOrder: true
+    }//,
+    //occurrenceOrder: true
   },
   devtool: 'inline-source-map',
   module: {
