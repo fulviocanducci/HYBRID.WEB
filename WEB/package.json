@@ -11,5 +11,9 @@
     "@types/react-dom": "^17.0.9",
     "webpack": "^5.53.0",
     "webpack-cli": "^4.8.0"
-  }
+  },
+  "scripts": {
+    "build": "yarn run build"
+  },
+  "license": "MIT"
 }
